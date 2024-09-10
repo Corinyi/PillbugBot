@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"cmath": "cpp",
+			"*.tcc": "cpp",
+			"algorithm": "cpp",
+			"memory": "cpp",
+			"random": "cpp",
+			"fstream": "cpp",
+			"iosfwd": "cpp",
+			"iostream": "cpp",
+			"istream": "cpp",
+			"ostream": "cpp",
+			"sstream": "cpp",
+			"streambuf": "cpp",
+			"regex": "cpp"
+		}
+	}
+}
