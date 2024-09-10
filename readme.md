@@ -1,5 +1,7 @@
 # Pill Bug Robot Project
 
+![pillbug_intro-2](https://github.com/user-attachments/assets/b4da6d1f-5558-4abf-93e7-9c3327559ae8)
+
 ## Project Overview
 The Pill Bug Robot Project aims to develop a next-generation mobile robot inspired by the natural movements of pill bugs. This robot can detect its surroundings using various sensors and adapt its form by contracting into a ball or expanding to move. The project combines multiple technologies to create a versatile and engaging robot with potential applications in reconnaissance and other fields.
 
@@ -30,7 +32,7 @@ The Pill Bug Robot Project aims to develop a next-generation mobile robot inspir
 
 ## Technology
 - Built on an ESP32-based Platform IO.
-- Incorporates Python and web development for app control.
+- Incorporates C++ and web development for app control.
 - Utilizes Wi-Fi AP mode for a mobile UI that allows control and monitoring.
 - Introduces a new tandem-based shell mechanism.
 
@@ -39,6 +41,17 @@ The Pill Bug Robot Project aims to develop a next-generation mobile robot inspir
 - Upgrading vision recognition and terrain awareness.
 - Adding a posture correction mechanism during contraction and expansion.
 - Modifying to 4 footWheels to improve driving performance.
+
+## User Manual
+
+1. Platform IO Platform > Erase Flash > Build Filesystem Image > Upload Filesystem
+2. Platform IO General > Build > Upload
+3. Wifi connect via "SSID: OMG_pillbug", "Password: aaaa1111"
+4. Contorl Panel "http://192.168.4.1"
+5. D-controller: Robot Movement, O-controller: Tendom Action
+
+<img width="400" alt="control panel" src="https://github.com/user-attachments/assets/2a33bf09-c475-4e6e-94f4-229f262f99c7">
+
 
 ## BOM
 

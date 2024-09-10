@@ -358,7 +358,7 @@ public:
 };
 
 // Change this to your network SSID
-const char *ssid = "OMG_SKKU";
+const char *ssid = "OMG_pillbug";
 const char *password = "aaaa1111";
 
 // AsyncWebserver runs on port 80 and the asyncwebsocket is initialize at this point also
