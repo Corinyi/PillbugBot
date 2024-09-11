@@ -1,7 +1,7 @@
 # Pill Bug Robot Project
-<div style="text-align:center">
-<img width="600" alt="pillbug robot demo" src=https://github.com/user-attachments/assets/b4da6d1f-5558-4abf-93e7-9c3327559ae8 >
-</div>
+<p align="center">
+<img alt="pillbug robot demo" width="800" src=https://github.com/user-attachments/assets/b4da6d1f-5558-4abf-93e7-9c3327559ae8 >
+</p>
 
 ##### For 3D HW access, click -> [Fusion360 Link](https://a360.co/4d0NLM4)
 
