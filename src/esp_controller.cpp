@@ -237,8 +237,8 @@ public:
         Serial.println("car is moving backward...");
         digitalWrite(in1, HIGH);
         digitalWrite(in2, HIGH);
-        ledcWrite(channel_0, 150-(currentSpeedSettings/2));
-        ledcWrite(channel_1, 150-(currentSpeedSettings/2));
+        ledcWrite(channel_0, 150 - (currentSpeedSettings / 2));
+        ledcWrite(channel_1, 150 - (currentSpeedSettings / 2));
     }
 
     // Stop the car

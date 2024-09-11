@@ -1,6 +1,9 @@
 # Pill Bug Robot Project
+<div style="text-align:center">
+<img width="600" alt="pillbug robot demo" src=https://github.com/user-attachments/assets/b4da6d1f-5558-4abf-93e7-9c3327559ae8 >
+</div>
 
-![pillbug_intro-2](https://github.com/user-attachments/assets/b4da6d1f-5558-4abf-93e7-9c3327559ae8)
+##### For 3D HW access, click -> [Fusion360 Link](https://a360.co/4d0NLM4)
 
 ## Project Overview
 The Pill Bug Robot Project aims to develop a next-generation mobile robot inspired by the natural movements of pill bugs. This robot can detect its surroundings using various sensors and adapt its form by contracting into a ball or expanding to move. The project combines multiple technologies to create a versatile and engaging robot with potential applications in reconnaissance and other fields.
@@ -10,16 +13,15 @@ The Pill Bug Robot Project aims to develop a next-generation mobile robot inspir
 - **Usability and Potential**:
   - Research indicates that pill bug robots can function as small-scale reconnaissance robots:
     - Capable of being tossed and navigating rough terrain.
-    - Practical applications beyond mere novelty, addressing real-world needs.
-  - There are few existing robotic implementations that mimic the contraction and expansion behavior seen in pill bugs.
+  - Unique robotic system that mimic the contraction and expansion behavior seen in pill bugs.
   - Due to its unique blend of technologies and intriguing nature, the project is expected to generate significant interest if released as open-source.
 
 ## Features and Characteristics
 - **Adaptive Mobility**: The robot contracts into a ball for rapid movement on slopes and expands to navigate flat terrain.
 - **Durability**: Designed to withstand impacts and collisions.
-- **Terrain Adaptability**: Overcomes uneven surfaces.
-- **Segmented Shell**: Composed of 10 TPU segments that enable smooth contraction and expansion movements.
-- **Dynamic Form**: Contracts into a spherical shape and expands into a form suitable for driving and moving.
+- **Terrain Adaptability**: Overcomes uneven, tough surfaces.
+- **Segmented Shell**: Composed of 10 TPU shell that enable smooth contraction and expansion movements.
+- **Dynamic Form**: Contracts into a spherical shape(160mm diameter) and expands into a form suitable for driving and moving.
 - **Responsive Movement**: Reacts to impacts and approaching objects with appropriate contraction actions.
 - **User Control**:
   - Controlled via a mobile device connected to the robot’s Wi-Fi signal.
@@ -27,6 +29,8 @@ The Pill Bug Robot Project aims to develop a next-generation mobile robot inspir
   - 30-minute battery life.
 
 ## Structure
+
+- You can access and download the structure STL file via Fusion. If you want to contribute the HW, please contact me for the access.
 - The robot's shell consists of 10 TPU segments that can contract and expand without interference.
 - 2 footWheels for mobility.
 
@@ -54,9 +58,10 @@ The Pill Bug Robot Project aims to develop a next-generation mobile robot inspir
 
 
 ## BOM
+BOM for the hardware will be added soon.
 
 <details>
-<summary>Click to view the required components</summary>
+<summary>Click to view the required electrical components</summary>
 
 | Component             | Description                                      | Link                                                                                                                                                                                                                                                                                                              |
 |-----------------------|--------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
